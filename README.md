@@ -15,7 +15,8 @@ If you are using this notebook for the first time, you may want to modify the fo
 
 **n_clusters:** Number of microstates used for clustering tICA data.
 
-### **Code works as follows:**
+
+### **Code Works as Follows:**
 
 A DCD trajectory file and corresponding PSF topology file should be provided.
 
@@ -39,7 +40,7 @@ Shows how well tICA captures the slowest kinetic processes.
 
 Results are shown as a bar plot.
 
-### **Output files and visualizations include:**
+### **Output Files**
 
 **predicted_conformation.pdb:** Representative structure from the most populated MSM state
 
