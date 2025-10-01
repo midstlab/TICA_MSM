@@ -5,6 +5,9 @@ In this code, the sample system analyzed is a trajectory of a 1000-nanosecond mo
 
 This code enables the investigation of the slow conformational dynamics of proteins by applying Time-Independent Component Analysis (tICA) and constructing a Markov State Model (MSM) from molecular dynamics trajectories. Additionally, the notebook performs an overlap analysis to assess the ability of the tICA space to capture the system’s slowest kinetic modes. This integrative approach helps in identifying metastable states and transition kinetics in complex biomolecular systems.
 
+### **Input Files**
+The DCD trajectory file can be downloaded from: figshare.com/articles/software/TICA_MSM/30258616
+
 ### **Parameters to Adjust in the Notebook**
 
 If you are using this notebook for the first time, you may want to modify the following key parameters based on your own simulation or analysis goals:
