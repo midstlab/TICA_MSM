@@ -1,5 +1,5 @@
 
-In this code, a trajectory of a 1000-nanosecond molecular dynamics simulation of ferric binding protein (FBP) is analyzed, focusing on its conformational transition from the apo to holo state.
+In this code, the sample system analyzed is a trajectory of a 1000-nanosecond molecular dynamics simulation of ferric binding protein (FBP), focusing on its conformational transition from apo to the holo state.
 
 # **TICA-MSM**
 
